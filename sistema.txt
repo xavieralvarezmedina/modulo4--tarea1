@@ -1,0 +1,20 @@
+uname -a :
+Muestra toda la información del sistema operativo y del
+hardware en una sola línea.
+
+whoami :
+Muestra el nombre del usuario actual que tiene la sesión
+activa en la terminal.
+
+cd .. : 
+se utiliza para retroceder un nivel en la estructura de
+directorios
+
+utilidad:
+whoami (Seguridad): Evita desastres al confirmarte
+si eres root (administrador) o un usuario común antes
+de ejecutar comandos destructivos.
+
+uname -a (Compatibilidad): Te dice la arquitectura exacta
+(x86_64, ARM) para que no instales software incompatible
+que pueda romper el servidor.

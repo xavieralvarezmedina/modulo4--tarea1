@@ -1,0 +1,9 @@
+1: Validación y saneamiento de entradas
+
+2:Control de acceso por roles (RBAC)
+
+3:Gestión segura de credenciales y variables de entorno
+
+4:Auditoría y registro de eventos (Logs)
+
+5:Cifrado de datos y conexiones
